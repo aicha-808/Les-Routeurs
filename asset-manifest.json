@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Les-Routeurs/static/css/main.b2bebe5a.css",
+    "main.js": "/Les-Routeurs/static/js/main.74e6daad.js",
+    "static/media/hom.png": "/Les-Routeurs/static/media/hom.0b20185282fe9cc0758e.png",
+    "index.html": "/Les-Routeurs/index.html",
+    "main.b2bebe5a.css.map": "/Les-Routeurs/static/css/main.b2bebe5a.css.map",
+    "main.74e6daad.js.map": "/Les-Routeurs/static/js/main.74e6daad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2bebe5a.css",
+    "static/js/main.74e6daad.js"
+  ]
+}
